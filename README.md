@@ -60,8 +60,8 @@ Um aplicativo simples e funcional para iOS, projetado para ajudar tutores de pet
 
 ## 🛠️ **Tecnologias Utilizadas**
 - **Linguagem:** Swift  
-- **Banco de Dados:** Core Data ou SQLite  
-- **Notificações:** Framework UserNotifications  
+- **Banco de Dados:** A ver
+- **Notificações:** A ver 
 - **Design:** Figma  
 
 ---
